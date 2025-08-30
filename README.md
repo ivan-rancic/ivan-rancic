@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivan-rancic
 - 👀 I’m interested in IT world
-- 🌱 I’m currently learning javascript
+
 
 
 <!---
